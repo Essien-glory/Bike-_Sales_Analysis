@@ -3,7 +3,7 @@ This project analyzes bike sales data in 53 States across 6 Countries (United St
 --TABLE 'SALES'
 --This project analyzes the sales of bikes for a period of 6 years in 6 countries
 
---Display all items in the table
+--Display all items in the table 
 
 select * 
 from Sales
